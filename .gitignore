@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Excel temporales
+~$*.xlsx
+
+# Windows
+Thumbs.db
+Desktop.ini
